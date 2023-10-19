@@ -5,7 +5,7 @@ summary: Git
 description: |
   Source https://github.com/bszakaly/git-snap
 
-grade: devel
+grade: stable
 confinement: strict
 
 apps:
