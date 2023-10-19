@@ -28,8 +28,10 @@ snapcraft
 
 ## Install
 
+Change ${VERSION} and ${ARCH} as needed
+
 ```
-sudo snap install --devmode git-bszakaly_0.1_amd64.snap
+sudo snap install git-bszakaly_${VERSION}_${ARCH}.snap
 ```
 
 ## Run

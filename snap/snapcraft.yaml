@@ -3,7 +3,7 @@ base: core22
 version: '2.39.3'
 summary: Git
 description: |
-  Git
+  Source https://github.com/bszakaly/git-snap
 
 grade: devel
 confinement: strict
