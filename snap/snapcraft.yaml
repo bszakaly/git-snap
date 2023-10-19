@@ -12,7 +12,7 @@ apps:
   git:
     command: usr/local/bin/git
     environment:
-      GIT_EXEC_PATH: ${SNAP}/usr/local/bin
+      GIT_EXEC_PATH: ${SNAP}/usr/local/libexec/git-core
       GIT_TEMPLATE_DIR: ${SNAP}/usr/local/share/git-core/templates
 
 
