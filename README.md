@@ -31,3 +31,9 @@ snapcraft
 ```
 sudo snap install --devmode git-bszakaly_0.1_amd64.snap
 ```
+
+## Run
+
+```
+git-bszakaly.git --version
+```
